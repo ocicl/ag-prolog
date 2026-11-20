@@ -4,6 +4,6 @@ A Prolog compiler for Common Lisp, with Lisp and Prolog syntax.
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/atgreen/ag-prolog.git |
-| commit  | f0c13aa                                      |
+| commit  | 47eb38d                                      |
 | systems | ag-prolog ag-prolog/syntax                   |
 |---------+----------------------------------------------|
