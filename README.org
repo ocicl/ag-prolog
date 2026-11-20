@@ -1,0 +1,9 @@
+* ag-prolog
+
+A Prolog compiler for Common Lisp, with Lisp and Prolog syntax.
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/atgreen/ag-prolog.git |
+| commit  | 0000000                                      |
+| systems | ag-prolog ag-prolog/syntax                   |
+|---------+----------------------------------------------|
